@@ -1,0 +1,3 @@
+com\saran\rest\ApplicationConfiguration.class
+com\saran\rest\controller\MyController.class
+com\saran\rest\ApplicationInitializer.class
